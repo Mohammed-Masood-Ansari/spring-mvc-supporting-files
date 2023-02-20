@@ -1,0 +1,66 @@
+dependencies
+		dependency
+			groupIdjunitgroupId
+			artifactIdjunitartifactId
+			version4.11version
+			scopetestscope
+		dependency
+
+		!-- httpsmvnrepository.comartifactorg.springframeworkspring-context --
+		dependency
+			groupIdorg.springframeworkgroupId
+			artifactIdspring-contextartifactId
+			version5.3.18version
+		dependency
+
+		!-- httpsmvnrepository.comartifactorg.springframeworkspring-webmvc --
+		dependency
+			groupIdorg.springframeworkgroupId
+			artifactIdspring-webmvcartifactId
+			version5.3.20version
+		dependency
+
+		!-- httpsmvnrepository.comartifactjavax.servlet.jsp.jstljstl --
+		dependency
+			groupIdjavax.servletgroupId
+			artifactIdjstlartifactId
+			version1.2version
+		dependency
+		!-- httpsmvnrepository.comartifacttaglibsstandard --
+		dependency
+			groupIdtaglibsgroupId
+			artifactIdstandardartifactId
+			version1.1.2version
+		dependency
+
+		!-- httpsmvnrepository.comartifactjavax.servlet.jspjsp-api --
+		dependency
+			groupIdjavax.servlet.jspgroupId
+			artifactIdjsp-apiartifactId
+			version2.2version
+			scopeprovidedscope
+		dependency
+
+		!-- httpsmvnrepository.comartifactjavax.servletjavax.servlet-api --
+		dependency
+			groupIdjavax.servletgroupId
+			artifactIdjavax.servlet-apiartifactId
+			version4.0.1version
+			scopeprovidedscope
+		dependency
+
+		!-- httpsmvnrepository.comartifactmysqlmysql-connector-java --
+		dependency
+			groupIdmysqlgroupId
+			artifactIdmysql-connector-javaartifactId
+			version8.0.28version
+		dependency
+
+		!-- httpsmvnrepository.comartifactorg.hibernatehibernate-core --
+		dependency
+			groupIdorg.hibernategroupId
+			artifactIdhibernate-coreartifactId
+			version5.6.5.Finalversion
+		dependency
+
+	dependencies
